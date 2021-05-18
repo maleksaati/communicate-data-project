@@ -10,7 +10,7 @@ The variable that I will explore in this analysis are only 16 .
 ## Summary of Findings
 
 > In the exporatory analysis, i have explore many featur to find a correlation with support the hyposis ( what variables affect the estimated return), I have explor Original Loan Amount, Borrowr APR and intrest Rate, Prosper Score , Employment status, and Loan term.
-the result of finding suggest same range prosper rating, also the Loan amount for each prosper rating.
+the result of finding suggest safe range prosper rating, and the Loan amount for each prosper rating.
 
 
 ## Key Insights for Presentation
